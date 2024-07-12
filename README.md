@@ -1,2 +1,2 @@
 # Lets-Grow-Together
-Lets Grow Together First Repo
+Lets Grow Together First App
